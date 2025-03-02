@@ -1,0 +1,9 @@
+{
+  "extends": ["eslint:recommended", "next/core-web-vitals"],
+  "rules": {
+    "react/prop-types": "off",
+    "no-unused-vars": "warn",
+    "no-mixed-spaces-and-tabs": 0,
+    "react/no-unescaped-entities": "off"
+  }
+}
